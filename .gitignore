@@ -1,0 +1,77 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project specific
+*.log
+*.bak
+*.backup
+*_backup.*
+
+# Archive folder (old/test files)
+archive/
+
+# Large files / Generated content
+# PDFs and images are too large for git
+input_pdfs/
+product-images/
+
+# Keep output JSONs but exclude large ones
+output/input_pdfs_analysis_*.json
+output/*_backup.json
+
+# Temporary folders
+input_pdfs_temp/
+temp/
+tmp/
+
+# Node modules (if any)
+node_modules/
+
+# Webshop modifications folder (example code, not part of main project)
+# webshop_modifications/
