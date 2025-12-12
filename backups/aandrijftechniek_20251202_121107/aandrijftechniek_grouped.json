@@ -1,0 +1,2452 @@
+[
+  {
+    "group_id": "page20_RLNUC205",
+    "type": "product_group",
+    "catalog": "catalogus-aandrijftechniek",
+    "family": "RLNUC205",
+    "name": "RLNUC205 Series",
+    "page_in_pdf": 20,
+    "media": [
+      {
+        "url": "product-images-by-pdf/catalogus-aandrijftechniek-150922/RLNUC205_catalogus-aandrijfte_p020_2l[+RLNUC206G2L3+RLNUC207+RLNUC208G2L3+RLNUC209+RLNUC211+1more].webp",
+        "role": "main"
+      }
+    ],
+    "common_properties": {
+      "diameter_mm": 52.0,
+      "diameter_display": "52.0 mm"
+    },
+    "variants": [
+      {
+        "sku": "RLNUC205",
+        "label": "RLNUC205 - ø 52.0 mm",
+        "properties": {
+          "diameter_mm": 52.0,
+          "diameter_display": "52.0 mm",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rlnuc205",
+            "meta_title": "RLNUC205 | catalogus aandrijftechniek 150922",
+            "meta_description": "RLNUC205 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "width": "31 mm",
+          "width_mm": "31",
+          "dynamic_load": "12.8 kN",
+          "dynamic_load_kn": "12.8",
+          "static_load": "6.65 kN",
+          "static_load_kn": "6.65"
+        },
+        "attributes": {
+          "diameter_mm": 52.0,
+          "diameter_display": "52.0 mm",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rlnuc205",
+            "meta_title": "RLNUC205 | catalogus aandrijftechniek 150922",
+            "meta_description": "RLNUC205 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 20,
+        "name": "RLNUC205 - ø 52.0 mm"
+      },
+      {
+        "sku": "RLNUC205G2L3",
+        "label": "RLNUC205G2L3 - ø 52.0 mm",
+        "properties": {
+          "diameter_mm": 52.0,
+          "diameter_display": "52.0 mm",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rlnuc205g2l3",
+            "meta_title": "RLNUC205G2L3 | catalogus aandrijftechniek 150922",
+            "meta_description": "RLNUC205G2L3 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "width": "31 mm",
+          "width_mm": "31",
+          "dynamic_load": "12.8 kN",
+          "dynamic_load_kn": "12.8",
+          "static_load": "6.65 kN",
+          "static_load_kn": "6.65"
+        },
+        "attributes": {
+          "diameter_mm": 52.0,
+          "diameter_display": "52.0 mm",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rlnuc205g2l3",
+            "meta_title": "RLNUC205G2L3 | catalogus aandrijftechniek 150922",
+            "meta_description": "RLNUC205G2L3 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 20,
+        "name": "RLNUC205G2L3 - ø 52.0 mm"
+      }
+    ],
+    "variant_count": 2,
+    "default_variant_sku": "RLNUC205",
+    "brand": "Dema",
+    "description": "RLNUC205 Series - Available in 2 variants",
+    "category": "Aandrijftechniek"
+  },
+  {
+    "group_id": "page20_RLNUC206",
+    "type": "product_group",
+    "catalog": "catalogus-aandrijftechniek",
+    "family": "RLNUC206",
+    "name": "RLNUC206 Series",
+    "page_in_pdf": 20,
+    "media": [
+      {
+        "url": "product-images-by-pdf/catalogus-aandrijftechniek-150922/RLNUC204_catalogus-aandrijfte_p020_2l[+RLNUC205+RLNUC205G2L3+RLNUC206+RLNUC206G2L3+RLNUC207+9more].webp",
+        "role": "main"
+      }
+    ],
+    "common_properties": {
+      "diameter_mm": 62.0,
+      "diameter_display": "62.0 mm"
+    },
+    "variants": [
+      {
+        "sku": "RLNUC206",
+        "label": "RLNUC206 - ø 62.0 mm",
+        "properties": {
+          "diameter_mm": 62.0,
+          "diameter_display": "62.0 mm",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rlnuc206",
+            "meta_title": "RLNUC206 | catalogus aandrijftechniek 150922",
+            "meta_description": "RLNUC206 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "width": "31 mm",
+          "width_mm": "31",
+          "dynamic_load": "12.8 kN",
+          "dynamic_load_kn": "12.8",
+          "static_load": "6.65 kN",
+          "static_load_kn": "6.65"
+        },
+        "attributes": {
+          "diameter_mm": 62.0,
+          "diameter_display": "62.0 mm",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rlnuc206",
+            "meta_title": "RLNUC206 | catalogus aandrijftechniek 150922",
+            "meta_description": "RLNUC206 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 20,
+        "name": "RLNUC206 - ø 62.0 mm"
+      },
+      {
+        "sku": "RLNUC206G2L3",
+        "label": "RLNUC206G2L3 - ø 62.0 mm",
+        "properties": {
+          "diameter_mm": 62.0,
+          "diameter_display": "62.0 mm",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rlnuc206g2l3",
+            "meta_title": "RLNUC206G2L3 | catalogus aandrijftechniek 150922",
+            "meta_description": "RLNUC206G2L3 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "width": "31 mm",
+          "width_mm": "31",
+          "dynamic_load": "12.8 kN",
+          "dynamic_load_kn": "12.8",
+          "static_load": "6.65 kN",
+          "static_load_kn": "6.65"
+        },
+        "attributes": {
+          "diameter_mm": 62.0,
+          "diameter_display": "62.0 mm",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rlnuc206g2l3",
+            "meta_title": "RLNUC206G2L3 | catalogus aandrijftechniek 150922",
+            "meta_description": "RLNUC206G2L3 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 20,
+        "name": "RLNUC206G2L3 - ø 62.0 mm"
+      }
+    ],
+    "variant_count": 2,
+    "default_variant_sku": "RLNUC206",
+    "brand": "Dema",
+    "description": "RLNUC206 Series - Available in 2 variants",
+    "category": "Aandrijftechniek"
+  },
+  {
+    "group_id": "page20_RLNUC207",
+    "type": "product_group",
+    "catalog": "catalogus-aandrijftechniek",
+    "family": "RLNUC207",
+    "name": "RLNUC207 Series",
+    "page_in_pdf": 20,
+    "media": [
+      {
+        "url": "product-images-by-pdf/catalogus-aandrijftechniek-150922/RLNUC204_catalogus-aandrijfte_p020_2l[+RLNUC205+RLNUC205G2L3+RLNUC206+RLNUC206G2L3+RLNUC207+9more].webp",
+        "role": "main"
+      }
+    ],
+    "common_properties": {
+      "diameter_mm": 72.0,
+      "diameter_display": "72.0 mm"
+    },
+    "variants": [
+      {
+        "sku": "RLNUC207",
+        "label": "RLNUC207 - ø 72.0 mm",
+        "properties": {
+          "diameter_mm": 72.0,
+          "diameter_display": "72.0 mm",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rlnuc207",
+            "meta_title": "RLNUC207 | catalogus aandrijftechniek 150922",
+            "meta_description": "RLNUC207 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "width": "31 mm",
+          "width_mm": "31",
+          "dynamic_load": "12.8 kN",
+          "dynamic_load_kn": "12.8",
+          "static_load": "6.65 kN",
+          "static_load_kn": "6.65"
+        },
+        "attributes": {
+          "diameter_mm": 72.0,
+          "diameter_display": "72.0 mm",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rlnuc207",
+            "meta_title": "RLNUC207 | catalogus aandrijftechniek 150922",
+            "meta_description": "RLNUC207 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 20,
+        "name": "RLNUC207 - ø 72.0 mm"
+      },
+      {
+        "sku": "RLNUC207G2L3",
+        "label": "RLNUC207G2L3 - ø 72.0 mm",
+        "properties": {
+          "diameter_mm": 72.0,
+          "diameter_display": "72.0 mm",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rlnuc207g2l3",
+            "meta_title": "RLNUC207G2L3 | catalogus aandrijftechniek 150922",
+            "meta_description": "RLNUC207G2L3 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "width": "31 mm",
+          "width_mm": "31",
+          "dynamic_load": "12.8 kN",
+          "dynamic_load_kn": "12.8",
+          "static_load": "6.65 kN",
+          "static_load_kn": "6.65"
+        },
+        "attributes": {
+          "diameter_mm": 72.0,
+          "diameter_display": "72.0 mm",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rlnuc207g2l3",
+            "meta_title": "RLNUC207G2L3 | catalogus aandrijftechniek 150922",
+            "meta_description": "RLNUC207G2L3 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 20,
+        "name": "RLNUC207G2L3 - ø 72.0 mm"
+      }
+    ],
+    "variant_count": 2,
+    "default_variant_sku": "RLNUC207",
+    "brand": "Dema",
+    "description": "RLNUC207 Series - Available in 2 variants",
+    "category": "Aandrijftechniek"
+  },
+  {
+    "group_id": "page20_RLNUC208",
+    "type": "product_group",
+    "catalog": "catalogus-aandrijftechniek",
+    "family": "RLNUC208",
+    "name": "RLNUC208 Series",
+    "page_in_pdf": 20,
+    "media": [
+      {
+        "url": "product-images-by-pdf/catalogus-aandrijftechniek-150922/RLNUC204_catalogus-aandrijfte_p020_2l[+RLNUC205+RLNUC205G2L3+RLNUC206+RLNUC206G2L3+RLNUC207+9more].webp",
+        "role": "main"
+      }
+    ],
+    "common_properties": {
+      "diameter_mm": 80.0,
+      "diameter_display": "80.0 mm"
+    },
+    "variants": [
+      {
+        "sku": "RLNUC208",
+        "label": "RLNUC208 - ø 80.0 mm",
+        "properties": {
+          "diameter_mm": 80.0,
+          "diameter_display": "80.0 mm",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rlnuc208",
+            "meta_title": "RLNUC208 | catalogus aandrijftechniek 150922",
+            "meta_description": "RLNUC208 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "width": "31 mm",
+          "width_mm": "31",
+          "dynamic_load": "12.8 kN",
+          "dynamic_load_kn": "12.8",
+          "static_load": "6.65 kN",
+          "static_load_kn": "6.65"
+        },
+        "attributes": {
+          "diameter_mm": 80.0,
+          "diameter_display": "80.0 mm",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rlnuc208",
+            "meta_title": "RLNUC208 | catalogus aandrijftechniek 150922",
+            "meta_description": "RLNUC208 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 20,
+        "name": "RLNUC208 - ø 80.0 mm"
+      },
+      {
+        "sku": "RLNUC208G2L3",
+        "label": "RLNUC208G2L3 - ø 80.0 mm",
+        "properties": {
+          "diameter_mm": 80.0,
+          "diameter_display": "80.0 mm",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rlnuc208g2l3",
+            "meta_title": "RLNUC208G2L3 | catalogus aandrijftechniek 150922",
+            "meta_description": "RLNUC208G2L3 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "width": "31 mm",
+          "width_mm": "31",
+          "dynamic_load": "12.8 kN",
+          "dynamic_load_kn": "12.8",
+          "static_load": "6.65 kN",
+          "static_load_kn": "6.65"
+        },
+        "attributes": {
+          "diameter_mm": 80.0,
+          "diameter_display": "80.0 mm",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rlnuc208g2l3",
+            "meta_title": "RLNUC208G2L3 | catalogus aandrijftechniek 150922",
+            "meta_description": "RLNUC208G2L3 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 20,
+        "name": "RLNUC208G2L3 - ø 80.0 mm"
+      }
+    ],
+    "variant_count": 2,
+    "default_variant_sku": "RLNUC208",
+    "brand": "Dema",
+    "description": "RLNUC208 Series - Available in 2 variants",
+    "category": "Aandrijftechniek"
+  },
+  {
+    "group_id": "page40_1105",
+    "type": "product_group",
+    "catalog": "catalogus-aandrijftechniek",
+    "family": "1105",
+    "name": "1105 Series",
+    "page_in_pdf": 40,
+    "media": [
+      {
+        "url": "product-images-by-pdf/catalogus-aandrijftechniek-150922/11050550_catalogus-aandrijfte_p040.webp",
+        "role": "main"
+      }
+    ],
+    "common_properties": {},
+    "variants": [
+      {
+        "sku": "11050550",
+        "label": "11050550 - ø 50.0 mm - 50.0 m",
+        "properties": {
+          "diameter_mm": 50.0,
+          "diameter_display": "50.0 mm",
+          "length_m": 50.0,
+          "length_display": "50.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "11050550",
+            "meta_title": "11050550 | catalogus aandrijftechniek 150922",
+            "meta_description": "11050550 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "attributes": {
+          "diameter_mm": 50.0,
+          "diameter_display": "50.0 mm",
+          "length_m": 50.0,
+          "length_display": "50.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "11050550",
+            "meta_title": "11050550 | catalogus aandrijftechniek 150922",
+            "meta_description": "11050550 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 40,
+        "name": "11050550 - ø 50.0 mm - 50.0 m"
+      },
+      {
+        "sku": "11050582",
+        "label": "11050582 - ø 40.0 mm - 40.0 m",
+        "properties": {
+          "diameter_mm": 40.0,
+          "diameter_display": "40.0 mm",
+          "length_m": 40.0,
+          "length_display": "40.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "11050582",
+            "meta_title": "11050582 | catalogus aandrijftechniek 150922",
+            "meta_description": "11050582 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "attributes": {
+          "diameter_mm": 40.0,
+          "diameter_display": "40.0 mm",
+          "length_m": 40.0,
+          "length_display": "40.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "11050582",
+            "meta_title": "11050582 | catalogus aandrijftechniek 150922",
+            "meta_description": "11050582 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 40,
+        "name": "11050582 - ø 40.0 mm - 40.0 m"
+      },
+      {
+        "sku": "11050583",
+        "label": "11050583 - ø 50.0 mm - 50.0 m",
+        "properties": {
+          "diameter_mm": 50.0,
+          "diameter_display": "50.0 mm",
+          "length_m": 50.0,
+          "length_display": "50.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "11050583",
+            "meta_title": "11050583 | catalogus aandrijftechniek 150922",
+            "meta_description": "11050583 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "attributes": {
+          "diameter_mm": 50.0,
+          "diameter_display": "50.0 mm",
+          "length_m": 50.0,
+          "length_display": "50.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "11050583",
+            "meta_title": "11050583 | catalogus aandrijftechniek 150922",
+            "meta_description": "11050583 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 40,
+        "name": "11050583 - ø 50.0 mm - 50.0 m"
+      }
+    ],
+    "variant_count": 3,
+    "default_variant_sku": "11050550",
+    "brand": "Dema",
+    "description": "1105 Series - Available in 3 variants",
+    "category": "Aandrijftechniek"
+  },
+  {
+    "group_id": "page44_RKKBS08",
+    "type": "product_group",
+    "catalog": "catalogus-aandrijftechniek",
+    "family": "RKKBS08",
+    "name": "RKKBS08 Series",
+    "page_in_pdf": 44,
+    "media": [
+      {
+        "url": "/images/products/aandrijftechniek/img_p44_i0_6771794415291497027.webp",
+        "role": "main",
+        "type": "image",
+        "format": "webp"
+      }
+    ],
+    "common_properties": {},
+    "variants": [
+      {
+        "sku": "RKKBS08B",
+        "label": "RKKBS08B - 5.0 m",
+        "properties": {
+          "length_m": 5.0,
+          "length_display": "5.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkkbs08b",
+            "meta_title": "RKKBS08B | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKBS08B from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "attributes": {
+          "length_m": 5.0,
+          "length_display": "5.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkkbs08b",
+            "meta_title": "RKKBS08B | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKBS08B from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 44,
+        "name": "RKKBS08B - 5.0 m"
+      },
+      {
+        "sku": "RKKBS08B050",
+        "label": "RKKBS08B050 - 50.0 m",
+        "properties": {
+          "length_m": 50.0,
+          "length_display": "50.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkkbs08b050",
+            "meta_title": "RKKBS08B050 | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKBS08B050 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "attributes": {
+          "length_m": 50.0,
+          "length_display": "50.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkkbs08b050",
+            "meta_title": "RKKBS08B050 | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKBS08B050 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 44,
+        "name": "RKKBS08B050 - 50.0 m"
+      }
+    ],
+    "variant_count": 2,
+    "default_variant_sku": "RKKBS08B",
+    "brand": "Dema",
+    "description": "RKKBS08 Series - Available in 2 variants",
+    "category": "Aandrijftechniek"
+  },
+  {
+    "group_id": "page44_RKKBS16",
+    "type": "product_group",
+    "catalog": "catalogus-aandrijftechniek",
+    "family": "RKKBS16",
+    "name": "RKKBS16 Series",
+    "page_in_pdf": 44,
+    "media": [
+      {
+        "url": "/images/products/aandrijftechniek/img_p44_i0_6771794415291497027.webp",
+        "role": "main",
+        "type": "image",
+        "format": "webp"
+      }
+    ],
+    "common_properties": {},
+    "variants": [
+      {
+        "sku": "RKKBS16B",
+        "label": "RKKBS16B - 5.0 m",
+        "properties": {
+          "length_m": 5.0,
+          "length_display": "5.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkkbs16b",
+            "meta_title": "RKKBS16B | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKBS16B from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "attributes": {
+          "length_m": 5.0,
+          "length_display": "5.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkkbs16b",
+            "meta_title": "RKKBS16B | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKBS16B from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 44,
+        "name": "RKKBS16B - 5.0 m"
+      },
+      {
+        "sku": "RKKBS16BG",
+        "label": "RKKBS16BG - 50.0 m",
+        "properties": {
+          "length_m": 50.0,
+          "length_display": "50.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkkbs16bg",
+            "meta_title": "RKKBS16BG | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKBS16BG from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "attributes": {
+          "length_m": 50.0,
+          "length_display": "50.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkkbs16bg",
+            "meta_title": "RKKBS16BG | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKBS16BG from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 44,
+        "name": "RKKBS16BG - 50.0 m"
+      }
+    ],
+    "variant_count": 2,
+    "default_variant_sku": "RKKBS16B",
+    "brand": "Dema",
+    "description": "RKKBS16 Series - Available in 2 variants",
+    "category": "Aandrijftechniek"
+  },
+  {
+    "group_id": "page51_RKKASA100",
+    "type": "product_group",
+    "catalog": "catalogus-aandrijftechniek",
+    "family": "RKKASA100",
+    "name": "RKKASA100 Series",
+    "page_in_pdf": 51,
+    "media": [
+      {
+        "url": "product-images-by-pdf/catalogus-aandrijftechniek-150922/DIN_8187_catalogus-aandrijftechniek-150922_p051_img00.webp",
+        "role": "main"
+      }
+    ],
+    "common_properties": {},
+    "variants": [
+      {
+        "sku": "RKKASA100H",
+        "label": "RKKASA100H - 5.0 m",
+        "properties": {
+          "length_m": 5.0,
+          "length_display": "5.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkkasa100h",
+            "meta_title": "RKKASA100H | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKASA100H from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "attributes": {
+          "length_m": 5.0,
+          "length_display": "5.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkkasa100h",
+            "meta_title": "RKKASA100H | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKASA100H from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 51,
+        "name": "RKKASA100H - 5.0 m"
+      },
+      {
+        "sku": "RKKASA100HG",
+        "label": "RKKASA100HG - 30.0 m",
+        "properties": {
+          "length_m": 30.0,
+          "length_display": "30.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkkasa100hg",
+            "meta_title": "RKKASA100HG | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKASA100HG from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "attributes": {
+          "length_m": 30.0,
+          "length_display": "30.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkkasa100hg",
+            "meta_title": "RKKASA100HG | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKASA100HG from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 51,
+        "name": "RKKASA100HG - 30.0 m"
+      }
+    ],
+    "variant_count": 2,
+    "default_variant_sku": "RKKASA100H",
+    "brand": "Dema",
+    "description": "RKKASA100 Series - Available in 2 variants",
+    "category": "Aandrijftechniek"
+  },
+  {
+    "group_id": "page51_RKKASA60",
+    "type": "product_group",
+    "catalog": "catalogus-aandrijftechniek",
+    "family": "RKKASA60",
+    "name": "RKKASA60 Series",
+    "page_in_pdf": 51,
+    "media": [
+      {
+        "url": "product-images-by-pdf/catalogus-aandrijftechniek-150922/DIN_8187_catalogus-aandrijftechniek-150922_p051_img00.webp",
+        "role": "main"
+      }
+    ],
+    "common_properties": {
+      "length_m": 5.0,
+      "length_display": "5.0 m"
+    },
+    "variants": [
+      {
+        "sku": "RKKASA60H",
+        "label": "RKKASA60H - 5.0 m",
+        "properties": {
+          "length_m": 5.0,
+          "length_display": "5.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkkasa60h",
+            "meta_title": "RKKASA60H | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKASA60H from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "attributes": {
+          "length_m": 5.0,
+          "length_display": "5.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkkasa60h",
+            "meta_title": "RKKASA60H | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKASA60H from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 51,
+        "name": "RKKASA60H - 5.0 m"
+      },
+      {
+        "sku": "RKKASA60HG",
+        "label": "RKKASA60HG - 5.0 m",
+        "properties": {
+          "length_m": 5.0,
+          "length_display": "5.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkkasa60hg",
+            "meta_title": "RKKASA60HG | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKASA60HG from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "attributes": {
+          "length_m": 5.0,
+          "length_display": "5.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkkasa60hg",
+            "meta_title": "RKKASA60HG | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKASA60HG from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 51,
+        "name": "RKKASA60HG - 5.0 m"
+      }
+    ],
+    "variant_count": 2,
+    "default_variant_sku": "RKKASA60H",
+    "brand": "Dema",
+    "description": "RKKASA60 Series - Available in 2 variants",
+    "category": "Aandrijftechniek"
+  },
+  {
+    "group_id": "page52_RKKS55",
+    "type": "product_group",
+    "catalog": "catalogus-aandrijftechniek",
+    "family": "RKKS55",
+    "name": "RKKS55 Series",
+    "page_in_pdf": 52,
+    "media": [
+      {
+        "url": "product-images-by-pdf/catalogus-aandrijftechniek-150922/RKKS55RH1711_catalogus-aandrijfte_p052[+RKKS55RH1712+RKKS55RH2511+RKKS55RH2512].webp",
+        "role": "main"
+      }
+    ],
+    "common_properties": {},
+    "variants": [
+      {
+        "sku": "RKKS55RH1711",
+        "label": "RKKS55RH1711 - 9.27 m",
+        "properties": {
+          "length_m": 9.27,
+          "length_display": "9.27 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkks55rh1711",
+            "meta_title": "RKKS55RH1711 | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKS55RH1711 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "attributes": {
+          "length_m": 9.27,
+          "length_display": "9.27 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkks55rh1711",
+            "meta_title": "RKKS55RH1711 | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKS55RH1711 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 52,
+        "name": "RKKS55RH1711 - 9.27 m"
+      },
+      {
+        "sku": "RKKS55RH1712",
+        "label": "RKKS55RH1712 - 9.27 m",
+        "properties": {
+          "length_m": 9.27,
+          "length_display": "9.27 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkks55rh1712",
+            "meta_title": "RKKS55RH1712 | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKS55RH1712 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "attributes": {
+          "length_m": 9.27,
+          "length_display": "9.27 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkks55rh1712",
+            "meta_title": "RKKS55RH1712 | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKS55RH1712 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 52,
+        "name": "RKKS55RH1712 - 9.27 m"
+      },
+      {
+        "sku": "RKKS55RH2511",
+        "label": "RKKS55RH2511 - 9.35 m",
+        "properties": {
+          "length_m": 9.35,
+          "length_display": "9.35 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkks55rh2511",
+            "meta_title": "RKKS55RH2511 | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKS55RH2511 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "attributes": {
+          "length_m": 9.35,
+          "length_display": "9.35 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkks55rh2511",
+            "meta_title": "RKKS55RH2511 | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKS55RH2511 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 52,
+        "name": "RKKS55RH2511 - 9.35 m"
+      },
+      {
+        "sku": "RKKS55RH2512",
+        "label": "RKKS55RH2512 - 9.35 m",
+        "properties": {
+          "length_m": 9.35,
+          "length_display": "9.35 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkks55rh2512",
+            "meta_title": "RKKS55RH2512 | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKS55RH2512 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "attributes": {
+          "length_m": 9.35,
+          "length_display": "9.35 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "rkks55rh2512",
+            "meta_title": "RKKS55RH2512 | catalogus aandrijftechniek 150922",
+            "meta_description": "RKKS55RH2512 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 52,
+        "name": "RKKS55RH2512 - 9.35 m"
+      }
+    ],
+    "variant_count": 4,
+    "default_variant_sku": "RKKS55RH1711",
+    "brand": "Dema",
+    "description": "RKKS55 Series - Available in 4 variants",
+    "category": "Aandrijftechniek"
+  },
+  {
+    "group_id": "page56_CARDW2400",
+    "type": "product_group",
+    "catalog": "catalogus-aandrijftechniek",
+    "family": "CARDW2400",
+    "name": "CARDW2400 Series",
+    "page_in_pdf": 56,
+    "media": [
+      {
+        "url": "product-images-by-pdf/catalogus-aandrijftechniek-150922/CARDW2400B138_catalogus-aandrijfte_p056[+CARDW2500B134+W2300+W2400+W2500].webp",
+        "role": "main"
+      }
+    ],
+    "common_properties": {},
+    "variants": [
+      {
+        "sku": "CARDW2400B134",
+        "label": "CARDW2400B134",
+        "properties": {
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "cardw2400b134",
+            "meta_title": "CARDW2400B134 | catalogus aandrijftechniek 150922",
+            "meta_description": "CARDW2400B134 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "attributes": {
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "cardw2400b134",
+            "meta_title": "CARDW2400B134 | catalogus aandrijftechniek 150922",
+            "meta_description": "CARDW2400B134 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 56,
+        "name": "CARDW2400B134"
+      },
+      {
+        "sku": "CARDW2400B138",
+        "label": "CARDW2400B138",
+        "properties": {
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "cardw2400b138",
+            "meta_title": "CARDW2400B138 | catalogus aandrijftechniek 150922",
+            "meta_description": "CARDW2400B138 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "attributes": {
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "cardw2400b138",
+            "meta_title": "CARDW2400B138 | catalogus aandrijftechniek 150922",
+            "meta_description": "CARDW2400B138 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 56,
+        "name": "CARDW2400B138"
+      }
+    ],
+    "variant_count": 2,
+    "default_variant_sku": "CARDW2400B134",
+    "brand": "Dema",
+    "description": "CARDW2400 Series - Available in 2 variants",
+    "category": "Aandrijftechniek"
+  },
+  {
+    "group_id": "page56_CARDW2500",
+    "type": "product_group",
+    "catalog": "catalogus-aandrijftechniek",
+    "family": "CARDW2500",
+    "name": "CARDW2500 Series",
+    "page_in_pdf": 56,
+    "media": [
+      {
+        "url": "product-images-by-pdf/catalogus-aandrijftechniek-150922/CARDW2500B134_catalogus-aandrijfte_p056[+CARDW2500B138].webp",
+        "role": "main"
+      }
+    ],
+    "common_properties": {},
+    "variants": [
+      {
+        "sku": "CARDW2500B134",
+        "label": "CARDW2500B134",
+        "properties": {
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "cardw2500b134",
+            "meta_title": "CARDW2500B134 | catalogus aandrijftechniek 150922",
+            "meta_description": "CARDW2500B134 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "attributes": {
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "cardw2500b134",
+            "meta_title": "CARDW2500B134 | catalogus aandrijftechniek 150922",
+            "meta_description": "CARDW2500B134 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 56,
+        "name": "CARDW2500B134"
+      },
+      {
+        "sku": "CARDW2500B138",
+        "label": "CARDW2500B138",
+        "properties": {
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "cardw2500b138",
+            "meta_title": "CARDW2500B138 | catalogus aandrijftechniek 150922",
+            "meta_description": "CARDW2500B138 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "attributes": {
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "cardw2500b138",
+            "meta_title": "CARDW2500B138 | catalogus aandrijftechniek 150922",
+            "meta_description": "CARDW2500B138 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 56,
+        "name": "CARDW2500B138"
+      }
+    ],
+    "variant_count": 2,
+    "default_variant_sku": "CARDW2500B134",
+    "brand": "Dema",
+    "description": "CARDW2500 Series - Available in 2 variants",
+    "category": "Aandrijftechniek"
+  },
+  {
+    "group_id": "page70_CARBU12",
+    "type": "product_group",
+    "catalog": "catalogus-aandrijftechniek",
+    "family": "CARBU12",
+    "name": "CARBU12 Series",
+    "page_in_pdf": 70,
+    "media": [
+      {
+        "url": "product-images-by-pdf/catalogus-aandrijftechniek-150922/CARBU12S5290_catalogus-aandrijfte_p070[+CARBU12S6290].webp",
+        "role": "main"
+      }
+    ],
+    "common_properties": {
+      "length_m": 2.9,
+      "length_display": "2.9 m"
+    },
+    "variants": [
+      {
+        "sku": "CARBU12S5290",
+        "label": "CARBU12S5290 - 2.9 m",
+        "properties": {
+          "length_m": 2.9,
+          "length_display": "2.9 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "carbu12s5290",
+            "meta_title": "CARBU12S5290 | catalogus aandrijftechniek 150922",
+            "meta_description": "CARBU12S5290 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "S5",
+          "model": "S5"
+        },
+        "attributes": {
+          "length_m": 2.9,
+          "length_display": "2.9 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "carbu12s5290",
+            "meta_title": "CARBU12S5290 | catalogus aandrijftechniek 150922",
+            "meta_description": "CARBU12S5290 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 70,
+        "name": "CARBU12S5290 - 2.9 m"
+      },
+      {
+        "sku": "CARBU12S6290",
+        "label": "CARBU12S6290 - 2.9 m",
+        "properties": {
+          "length_m": 2.9,
+          "length_display": "2.9 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "carbu12s6290",
+            "meta_title": "CARBU12S6290 | catalogus aandrijftechniek 150922",
+            "meta_description": "CARBU12S6290 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "S5",
+          "model": "S5"
+        },
+        "attributes": {
+          "length_m": 2.9,
+          "length_display": "2.9 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "carbu12s6290",
+            "meta_title": "CARBU12S6290 | catalogus aandrijftechniek 150922",
+            "meta_description": "CARBU12S6290 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 70,
+        "name": "CARBU12S6290 - 2.9 m"
+      }
+    ],
+    "variant_count": 2,
+    "default_variant_sku": "CARBU12S5290",
+    "brand": "Dema",
+    "description": "CARBU12 Series - Available in 2 variants",
+    "category": "Aandrijftechniek"
+  },
+  {
+    "group_id": "page88_1421",
+    "type": "product_group",
+    "catalog": "catalogus-aandrijftechniek",
+    "family": "1421",
+    "name": "1421 Series",
+    "page_in_pdf": 88,
+    "media": [
+      {
+        "url": "product-images-by-pdf/catalogus-aandrijftechniek-150922/14210001_catalogus-aandrijfte_p088[+14210002+14210003+14210004+14210005].webp",
+        "role": "main"
+      }
+    ],
+    "common_properties": {
+      "length_m": 1000.0,
+      "length_display": "1000.0 m"
+    },
+    "variants": [
+      {
+        "sku": "14210001",
+        "label": "14210001 - ø 10.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 10.0,
+          "diameter_display": "10.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210001",
+            "meta_title": "14210001 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210001 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 10.0,
+          "diameter_display": "10.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210001",
+            "meta_title": "14210001 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210001 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210001 - ø 10.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210002",
+        "label": "14210002 - ø 16.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 16.0,
+          "diameter_display": "16.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210002",
+            "meta_title": "14210002 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210002 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 16.0,
+          "diameter_display": "16.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210002",
+            "meta_title": "14210002 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210002 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210002 - ø 16.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210003",
+        "label": "14210003 - ø 20.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 20.0,
+          "diameter_display": "20.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210003",
+            "meta_title": "14210003 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210003 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 20.0,
+          "diameter_display": "20.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210003",
+            "meta_title": "14210003 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210003 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210003 - ø 20.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210004",
+        "label": "14210004 - ø 25.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 25.0,
+          "diameter_display": "25.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210004",
+            "meta_title": "14210004 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210004 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 25.0,
+          "diameter_display": "25.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210004",
+            "meta_title": "14210004 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210004 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210004 - ø 25.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210005",
+        "label": "14210005 - ø 30.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 30.0,
+          "diameter_display": "30.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210005",
+            "meta_title": "14210005 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210005 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 30.0,
+          "diameter_display": "30.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210005",
+            "meta_title": "14210005 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210005 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210005 - ø 30.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210006",
+        "label": "14210006 - ø 36.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 36.0,
+          "diameter_display": "36.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210006",
+            "meta_title": "14210006 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210006 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 36.0,
+          "diameter_display": "36.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210006",
+            "meta_title": "14210006 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210006 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210006 - ø 36.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210007",
+        "label": "14210007 - ø 40.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 40.0,
+          "diameter_display": "40.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210007",
+            "meta_title": "14210007 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210007 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 40.0,
+          "diameter_display": "40.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210007",
+            "meta_title": "14210007 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210007 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210007 - ø 40.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210008",
+        "label": "14210008 - ø 45.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 45.0,
+          "diameter_display": "45.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210008",
+            "meta_title": "14210008 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210008 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 45.0,
+          "diameter_display": "45.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210008",
+            "meta_title": "14210008 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210008 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210008 - ø 45.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210009",
+        "label": "14210009 - ø 50.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 50.0,
+          "diameter_display": "50.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210009",
+            "meta_title": "14210009 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210009 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 50.0,
+          "diameter_display": "50.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210009",
+            "meta_title": "14210009 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210009 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210009 - ø 50.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210010",
+        "label": "14210010 - ø 56.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 56.0,
+          "diameter_display": "56.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210010",
+            "meta_title": "14210010 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210010 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 56.0,
+          "diameter_display": "56.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210010",
+            "meta_title": "14210010 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210010 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210010 - ø 56.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210011",
+        "label": "14210011 - ø 60.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 60.0,
+          "diameter_display": "60.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210011",
+            "meta_title": "14210011 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210011 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 60.0,
+          "diameter_display": "60.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210011",
+            "meta_title": "14210011 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210011 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210011 - ø 60.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210012",
+        "label": "14210012 - ø 65.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 65.0,
+          "diameter_display": "65.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210012",
+            "meta_title": "14210012 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210012 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 65.0,
+          "diameter_display": "65.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210012",
+            "meta_title": "14210012 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210012 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210012 - ø 65.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210013",
+        "label": "14210013 - ø 70.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 70.0,
+          "diameter_display": "70.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210013",
+            "meta_title": "14210013 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210013 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 70.0,
+          "diameter_display": "70.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210013",
+            "meta_title": "14210013 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210013 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210013 - ø 70.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210014",
+        "label": "14210014 - ø 75.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 75.0,
+          "diameter_display": "75.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210014",
+            "meta_title": "14210014 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210014 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 75.0,
+          "diameter_display": "75.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210014",
+            "meta_title": "14210014 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210014 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210014 - ø 75.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210015",
+        "label": "14210015 - ø 80.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 80.0,
+          "diameter_display": "80.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210015",
+            "meta_title": "14210015 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210015 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 80.0,
+          "diameter_display": "80.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210015",
+            "meta_title": "14210015 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210015 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210015 - ø 80.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210016",
+        "label": "14210016 - ø 85.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 85.0,
+          "diameter_display": "85.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210016",
+            "meta_title": "14210016 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210016 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 85.0,
+          "diameter_display": "85.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210016",
+            "meta_title": "14210016 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210016 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210016 - ø 85.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210017",
+        "label": "14210017 - ø 90.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 90.0,
+          "diameter_display": "90.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210017",
+            "meta_title": "14210017 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210017 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 90.0,
+          "diameter_display": "90.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210017",
+            "meta_title": "14210017 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210017 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210017 - ø 90.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210018",
+        "label": "14210018 - ø 100.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 100.0,
+          "diameter_display": "100.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210018",
+            "meta_title": "14210018 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210018 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 100.0,
+          "diameter_display": "100.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210018",
+            "meta_title": "14210018 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210018 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210018 - ø 100.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210019",
+        "label": "14210019 - ø 110.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 110.0,
+          "diameter_display": "110.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210019",
+            "meta_title": "14210019 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210019 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 110.0,
+          "diameter_display": "110.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210019",
+            "meta_title": "14210019 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210019 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210019 - ø 110.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210020",
+        "label": "14210020 - ø 120.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 120.0,
+          "diameter_display": "120.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210020",
+            "meta_title": "14210020 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210020 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 120.0,
+          "diameter_display": "120.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210020",
+            "meta_title": "14210020 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210020 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210020 - ø 120.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210021",
+        "label": "14210021 - ø 125.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 125.0,
+          "diameter_display": "125.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210021",
+            "meta_title": "14210021 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210021 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 125.0,
+          "diameter_display": "125.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210021",
+            "meta_title": "14210021 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210021 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210021 - ø 125.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210022",
+        "label": "14210022 - ø 130.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 130.0,
+          "diameter_display": "130.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210022",
+            "meta_title": "14210022 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210022 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 130.0,
+          "diameter_display": "130.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210022",
+            "meta_title": "14210022 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210022 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210022 - ø 130.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210023",
+        "label": "14210023 - ø 140.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 140.0,
+          "diameter_display": "140.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210023",
+            "meta_title": "14210023 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210023 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 140.0,
+          "diameter_display": "140.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210023",
+            "meta_title": "14210023 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210023 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210023 - ø 140.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210024",
+        "label": "14210024 - ø 150.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 150.0,
+          "diameter_display": "150.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210024",
+            "meta_title": "14210024 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210024 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 150.0,
+          "diameter_display": "150.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210024",
+            "meta_title": "14210024 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210024 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210024 - ø 150.0 mm - 1000.0 m"
+      },
+      {
+        "sku": "14210025",
+        "label": "14210025 - ø 160.0 mm - 1000.0 m",
+        "properties": {
+          "diameter_mm": 160.0,
+          "diameter_display": "160.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210025",
+            "meta_title": "14210025 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210025 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          },
+          "efficiency_class": "+0,10/+0,70"
+        },
+        "attributes": {
+          "diameter_mm": 160.0,
+          "diameter_display": "160.0 mm",
+          "length_m": 1000.0,
+          "length_display": "1000.0 m",
+          "category": "Aandrijftechniek",
+          "product_category": "Aandrijftechniek",
+          "seo": {
+            "slug": "14210025",
+            "meta_title": "14210025 | catalogus aandrijftechniek 150922",
+            "meta_description": "14210025 from catalogus aandrijftechniek 150922."
+          },
+          "stock": {
+            "status": "unknown",
+            "quantity": null
+          }
+        },
+        "page_in_pdf": 88,
+        "name": "14210025 - ø 160.0 mm - 1000.0 m"
+      }
+    ],
+    "variant_count": 25,
+    "default_variant_sku": "14210001",
+    "brand": "Dema",
+    "description": "1421 Series - Available in 25 variants",
+    "category": "Aandrijftechniek"
+  }
+]

@@ -23,10 +23,16 @@ wheels/
 .installed.cfg
 *.egg
 
-# Virtual environments
+# Virtual environments (all common variations)
 venv/
-ENV/
 env/
+ENV/
+.venv/
+.env/
+virtualenv/
+.virtualenv/
+venv.bak/
+env.bak/
 
 # IDE
 .vscode/
@@ -55,6 +61,16 @@ desktop.ini
 
 # Archive folder (old/test files)
 archive/
+obsolete_scripts_archive/
+
+# Experimental folders
+images_experiment/
+extracted_images/
+
+# Backup folders
+*-backup/
+*_backup/
+product-images-by-pdf-v*.0-backup/
 
 # Large files / Generated content
 # PDFs and images are too large for git
@@ -62,8 +78,16 @@ input_pdfs/
 product-images/
 
 # Keep output JSONs but exclude large ones
-output/input_pdfs_analysis_*.json
+output/input_pdfs_analysis_v*.json
 output/*_backup.json
+output/products_*_202*.json
+output/products_category_aware_*.json
+output/products_enhanced_*.json
+output/products_v*.json
+
+# Sample and test files
+sample_*.json
+test_*.json
 
 # Temporary folders
 input_pdfs_temp/
